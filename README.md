@@ -32,14 +32,9 @@ Este projeto foi desenvolvido para oferecer uma experiência de imersão no trab
 
 * **HTML5:** Estrutura semântica e tags personalizadas.
 * **CSS3:** Design responsivo (Desktop/Mobile), variáveis CSS e temas dinâmicos.
-* **JavaScript (ES6+):** * Lógica de temporização (`setInterval`).
+* **JavaScript (ES6+):**
+    * Lógica de temporização (`setInterval`).
     * Manipulação de áudio (`Audio Context`).
     * Persistência com `LocalStorage`.
     * Comunicação entre módulos via `CustomEvents`.
 * **Google Fonts:** Utilização das fontes *Montserrat*, *Prata* e *Unbounded*.
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/fokus.git](https://github.com/seu-usuario/fokus.git)
